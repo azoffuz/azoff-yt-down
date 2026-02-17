@@ -1,0 +1,4 @@
+aiogram==3.4.1
+yt-dlp==2024.3.10
+aiohttp==3.9.3
+mutagen==1.47.0
